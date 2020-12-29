@@ -9,3 +9,12 @@ Lecture 1:
 - Matrices.m
 - Plotting.m
 - Excercises.m <-- this file contains solutions for all the excercises in lecture 1 notes.
+
+Assignment 1 Solutions:
+- shortProblems.m
+- twoLinePlot.m
+- calculateGrades.m
+- classGrades.mat <-- used for calculateGrades.m
+- throwBall.m (optional)
+- seriesConvergence.m (optional)
+- encrypt.m (optional)
