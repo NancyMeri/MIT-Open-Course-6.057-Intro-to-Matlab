@@ -18,3 +18,25 @@ Assignment 1 Solutions:
 - throwBall.m (optional)
 - seriesConvergence.m (optional)
 - encrypt.m (optional)
+
+Lecture 2:
+- dayTwoNotes.m <-- follows along with lecture examples
+- Excercises2.m <-- Functions excercise
+- plotSin.m
+- plotSin2.m
+- plotSin3.m
+- plotSin4.m
+
+Assignment 2 Solutions:
+- semilog.m
+- subplot.m
+- mitMap.mat <-- used for subplot.m
+- barGraph.m
+- randomSurface.m
+- findNearest.m
+- loopTest.m
+- rectFilt.m
+- noisyData.mat <-- used for rectFilt.m
+- getCircle.m
+- concentric.m
+- olympic.m
