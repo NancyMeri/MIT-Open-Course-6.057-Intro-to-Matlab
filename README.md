@@ -5,6 +5,7 @@ Code is organized into lectures (1-5) and assignment solutions (1-4). Includes .
 
 Lecture 1:
 - helloWorld.m
+- startTime.mat <-- used for helloWorld.m
 - ManipulatingVariables.m
 - Matrices.m
 - Plotting.m
