@@ -41,3 +41,5 @@ Assignment 2 Solutions:
 - getCircle.m
 - concentric.m
 - olympic.m
+- throwBall2.m (optional)
+- testBall.m (optional)
