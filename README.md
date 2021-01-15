@@ -43,3 +43,7 @@ Assignment 2 Solutions:
 - olympic.m
 - throwBall2.m (optional)
 - testBall.m (optional)
+- rectFilt2.m (optional)
+- optionalData.mat <-- used for rectFilt2.m
+- tradeStock.m (optional)
+- googlePrices.mat <-- used for tradeStock.m
